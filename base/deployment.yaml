@@ -8,7 +8,7 @@ spec:
     spec:
       containers:
       - name: silly-demo
-        image: ghcr.io/gattma/silly-demo:main-00f4a2d
+        image: ghcr.io/gattma/silly-demo:main-28a9064
         ports:
         - containerPort: 8080
         envFrom:
