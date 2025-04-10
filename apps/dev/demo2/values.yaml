@@ -1,1 +1,2 @@
 name: demo-2
+image: ghcr.io/gattma/demo2:main-00f4a2d
